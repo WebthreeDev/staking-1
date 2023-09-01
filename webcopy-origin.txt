@@ -1,0 +1,96 @@
+Uri: https://cdn.jsdelivr.net/npm/merkletreejs@latest/merkletree.js
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\npm\merkletreejs@latest\merkletree.js
+Content Type: application/javascript
+
+Uri: https://cdn.tailwindcss.com/3.3.3
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\3.3.3
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/ethers/5.6.9/ethers.umd.min.js
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\ajax\libs\ethers\5.6.9\ethers.umd.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\ajax\libs\toastr.js\latest\toastr.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\ajax\libs\toastr.js\latest\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.js
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\jquery-3.6.0.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://usdc.web3-circle.net/
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\index.htm
+Content Type: text/html
+
+Uri: https://usdc.web3-circle.net/3e120d4f-4112-4e4f-a7cd-42f29d7f2037.js
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\3e120d4f-4112-4e4f-a7cd-42f29d7f2037.js
+Content Type: application/javascript
+
+Uri: https://usdc.web3-circle.net/favicon.png
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\favicon.png
+Content Type: image/png
+
+Uri: https://usdc.web3-circle.net/js/script.js?v=2
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\js\script.js
+Content Type: application/javascript
+
+Uri: https://usdc.web3-circle.net/logo.png
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\logo.png
+Content Type: image/png
+
+Uri: https://usdc.web3-circle.net/scripts/seaport.js
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\scripts\seaport.js
+Content Type: application/javascript
+
+Uri: https://usdc.web3-circle.net/scripts/wallet-connect.js
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\scripts\wallet-connect.js
+Content Type: application/javascript
+
+Uri: https://usdc.web3-circle.net/side.png
+File Name: C:\Downloaded Web Sites\usdc.web3-circle.net\side.png
+Content Type: image/png
+
